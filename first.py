@@ -1,4 +1,6 @@
 print("Hello Master")
+print("Hello Mritunjay")
+
 
 def binarySearch(lst, target):
     lo = 0
